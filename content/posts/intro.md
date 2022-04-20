@@ -16,4 +16,4 @@ Para mi, la cultura profesional de un desarrollador se basa en lo siguiente:
 
 -Creatividad.
 
--Perseverante.
+-Perseverante
