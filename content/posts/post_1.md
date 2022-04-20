@@ -9,10 +9,17 @@ description: 'Esta pequeña sección muestro lo aprendido durante mi estancia en
 Durante el tiempo que he estado en el programa de Launch X logre aprender:
 
 -Python
+
 -Jupyter
+
 -HTML
+
 -CSS
+
 -JS
+
 -Node JS
+
 -Github
+
 -Git
