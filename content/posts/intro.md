@@ -8,9 +8,12 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Para mi, la cultura profesional de un desarrollador se basa en lo siguiente:
 
-"Valores."
--respeto.
+-Respeto.
 
--confianza.
+-Confianza.
 
--compromiso.
+-Honestidad.
+
+-Creatividad.
+
+-Perseverante.
